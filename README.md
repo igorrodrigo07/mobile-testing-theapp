@@ -21,8 +21,5 @@ Foram realizados testes baseados em:
 - Ausência de feedback visual em algumas ações
 - Limitações em funcionalidades como WebView
 
-## 📸 Evidências
-(Imagens aqui)
-
 ## 🚀 Conclusão
 Os testes demonstraram a importância de validar não apenas funcionalidade, mas também comportamento e experiência do usuário em aplicações mobile.
