@@ -19,7 +19,10 @@ Foram realizados testes baseados em:
 ## ⚠️ Principais achados
 - Mensagens de erro genéricas no login
 - Ausência de feedback visual em algumas ações
-- Limitações em funcionalidades como WebView
+- Limitações em funcionalidades como 
+
+## 📸 Evidências
+As evidências visuais foram utilizadas na publicação do projeto no LinkedIn.
 
 ## 🚀 Conclusão
 Os testes demonstraram a importância de validar não apenas funcionalidade, mas também comportamento e experiência do usuário em aplicações mobile.
